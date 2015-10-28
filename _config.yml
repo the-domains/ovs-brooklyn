@@ -1,6 +1,6 @@
 name: OVS Brooklyn
 favicon: null
-layout_spectrum: 0.47636867268010974
+layout_spectrum: 0.50405
 typography_spectrum: 0.7037154836580157
 title: OVS Brooklyn
 cta:
@@ -24,6 +24,6 @@ color:
     - '#d7492a'
   brandStrength: 1
   lightness: 0.382690672762692
-  saturation: 0.5244993017986417
+  saturation: 0.25
   rhythmicContrast: 0.20079950732178986
 purpose: []
