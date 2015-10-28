@@ -1,0 +1,23 @@
+name: OVS Brooklyn
+favicon: null
+layout_spectrum: 0.47636867268010974
+typography_spectrum: 0.7037154836580157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2918393425643444
+  lightness: 0.382690672762692
+  saturation: 0.5244993017986417
+  rhythmicContrast: 0.20079950732178986
+purpose: []
